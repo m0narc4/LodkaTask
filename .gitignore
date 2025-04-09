@@ -2,3 +2,4 @@ venv/
 .idea
 /README.md
 .python-version
+.pytest_cache
