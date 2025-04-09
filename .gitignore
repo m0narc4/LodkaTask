@@ -3,3 +3,4 @@ venv/
 /README.md
 .python-version
 .pytest_cache
+__pycache__
